@@ -13,7 +13,7 @@ local balloonGroup = display.newGroup( )
 local bg = display.newImageRect( "assets/clouds.png", 570, 320 )
 bg.x, bg.y = display.contentCenterX, display.contentCenterY
 
-local title = display.newText( "Balloon", display.contentCenterX, 40, native.systemFontBold, 30 )
+local title = display.newText( "Balloon Pop", display.contentCenterX, 40, native.systemFontBold, 30 )
 title:setFillColor( 1,0,0 )
 
 local playButton = display.newGroup( )

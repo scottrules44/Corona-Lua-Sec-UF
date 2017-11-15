@@ -213,7 +213,13 @@ Have to give credit to Ray Wenderlich for his ballon pop assets
 
 If you have question problems with Corona, you can always ask in the [forums](https://forums.coronalabs.com/forum/532-newbie-questions/). There are usually engineers or other corona members that can help.
 
-Corona has alot of tuturials and examples in the [documentation](https://docs.coronalabs.com).
+Corona has a lot of tutorials and examples in the [documentation](https://docs.coronalabs.com).
+
+## Put game on mobile
+
+[iOS](https://docs.coronalabs.com/guide/distribution/iOSBuild/index.html)
+[Android](https://docs.coronalabs.com/guide/distribution/androidBuild/index.html)
+
 
 ## Thanks for following along!
 My name is Scott and my email is scottrules44@gmail.com if you have any questions or comments
